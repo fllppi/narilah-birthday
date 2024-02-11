@@ -1,0 +1,38 @@
+.glueckwuensche {
+    background-size: cover;
+    color: #000;
+    overflow: visible;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.greeting {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.message {
+    font-size: 2rem;
+}
+
+.gruß {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+
+.envelopeName {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #000;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+    white-space: nowrap;
+}
